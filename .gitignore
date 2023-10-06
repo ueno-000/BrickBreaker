@@ -95,3 +95,8 @@ Plugins/**/Intermediate/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
 Content/StarterContent/Textures/
+Content/StarterContent/Materials/
+Content/StarterContent/Audio/
+Content/StarterContent/Particles/Materials/
+Content/StarterContent/Props/Materials/
+Content/StarterContent/HDRI/
